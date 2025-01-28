@@ -1,0 +1,47 @@
+﻿body {
+    background-color: #ca5757;
+    color: #ffffff;
+    font-family:Georgia;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+#Title{
+    margin-bottom: 10px;
+}
+
+#CoverArt{
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+}
+#Trailer{
+    width: 560px;
+    height:315px;
+    margin-top: 20px;
+    border: dashed;
+}
+#Rating{
+    font-size:1.5em;
+    margin-top:10px;
+    font-weight: bold;
+}
+#Summary{
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.2em;
+}
+#Actors{
+    list-style: none;
+    padding: 0;
+}
+#Actors li{
+    font-size: 1.2em;
+    margin: 5px 0;
+
+}
+a {
+    color: #f39c12;
+    font-weight: bold;
+}
